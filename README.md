@@ -38,7 +38,7 @@
  
 <img src="https://user-images.githubusercontent.com/39228803/147779363-bc1df0a1-4a9d-4a32-b213-ae74a2163397.png" width="300"> <img src="https://user-images.githubusercontent.com/39228803/147779400-9bf1784e-62c8-49a3-a611-a1e3aeece8b0.png" width="300">
 
-- Sensor Óptico e Bateria de Lithium
+- Sensor Óptico e Bateria de Lítio 
 
 <img src="https://user-images.githubusercontent.com/39228803/147779619-18de1bfe-ed8f-485d-9c89-e940443366da.png" width="300"> <img src="https://user-images.githubusercontent.com/39228803/147786233-4c08481c-18da-4871-bd75-de113b35b9c6.png" width="300">
 
