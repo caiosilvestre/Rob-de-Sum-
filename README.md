@@ -22,7 +22,7 @@
 
 
 ## Programa
-  - O robô tem que ser autonomo, não pode possuir nenhum tipo de controle externo como joystick, tem que verificar as condições no momento e executar ações.
+  - O robô tem que ser autônomo, não pode possuir nenhum tipo de controle externo como joystick, tem que verificar as condições no momento e executar ações.
    - Exemplo:
    
    - ### Fluxograma do programa 
